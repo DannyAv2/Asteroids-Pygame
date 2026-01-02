@@ -9,6 +9,7 @@ gitignore
 .python-version
 pyproject.toml
 uv.lock
+game_state.json1
 
 # Virtual environments
 .venv
